@@ -1,4 +1,4 @@
-Interactive Dashboard for Analysis of Road Accidents in India - Using Plotly and Dash
+Interactive Dashboard for Analysis of Road Accidents in India - Using Python, Plotly and Dash
 
 The static version of the Dashboard created using Plotly and Dash looks like the annotated image shown below:
 
